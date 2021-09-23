@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="YandexTests" />
+        <module name="Order" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="YandexTests" target="11" />
+      <module name="Order" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
