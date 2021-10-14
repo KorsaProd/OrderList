@@ -28,11 +28,10 @@ example:
         "return_count": 2,
         "status": "OK"
     }
-]
+  ]
 
     otput: 
-  
     event id: 2
-items:
+    items:
         count: 2
 	item id: 1
